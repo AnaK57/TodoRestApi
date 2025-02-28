@@ -1,0 +1,12 @@
+fastapi
+pydantic
+uvicorn
+sqlalchemy
+pytest
+pytest-asyncio
+httpx
+passlib[bcrypt]
+pyjwt
+python-multipart
+aiosqlite
+pytest-mock

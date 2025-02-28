@@ -1,0 +1,10 @@
+PORT = 8000
+
+SQLALCHEMY_DATABASE_URL = "sqlite+aiosqlite:///./tasks.db"
+
+#auth
+SECRET_KEY = "supersecretkey"
+ALGORITHM = "HS256"
+ACCESS_TOKEN_EXPIRE_MINUTES = 30
+
+TASKS_FETCH_LIMIT = 100
