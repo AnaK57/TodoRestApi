@@ -30,8 +30,8 @@ Before starting the project, ensure you have the following installed:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/AnaK57/ToDo.git
-cd todo-app
+git clone https://github.com/AnaK57/TodoRestApi.git
+cd TodoRestApi
 ```
 ### 2. create and activate virtual environmnent
 ```bash
